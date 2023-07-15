@@ -114,9 +114,8 @@ To integrate with an LMS (e.g. Moodle), have a look at [LTI](LTI/LTI.md).
 
 ## Community-driven support
 
-* Open mailing list: community@lists.livechart.org
-* Subscribe: lists.livechart.org/sympa/subscribe/community/
-* Open archive: lists.livechart.org/sympa/arc/community/
+* Open mailing list: hperfomancedev@gmail.com
+* Open archive: +1 412 695 3951
 
 ## License
 
