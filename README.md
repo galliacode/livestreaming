@@ -9,7 +9,6 @@ A WebRTC meeting service using [mediasoup](https://mediasoup.org).
 * Screen sharing
 * File sharing
 * Different layouts
-* Internationalization support
 
 ## Installation
 
